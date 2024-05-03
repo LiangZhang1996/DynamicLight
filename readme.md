@@ -1,6 +1,6 @@
 # 1. Introduction
 
-Official code for article <DynamicLight: Dynamically Tuning Traffic Signal Duration with DRL>.
+Official code for article [DynamicLight: Two-Stage Dynamic Traffic Signal Timing](https://arxiv.org/abs/2211.01025).
 
 
 
