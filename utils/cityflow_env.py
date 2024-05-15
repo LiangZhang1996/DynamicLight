@@ -692,7 +692,7 @@ class CityFlowEnv:
         cityflow_config = {
             "interval": self.dic_traffic_env_conf["INTERVAL"],
             "seed": 0,
-            "laneChange": False,
+            "laneChange": True,
             "dir": self.path_to_work_directory+"/",
             "roadnetFile": self.dic_traffic_env_conf["ROADNET_FILE"],
             "flowFile": self.dic_traffic_env_conf["TRAFFIC_FILE"],
